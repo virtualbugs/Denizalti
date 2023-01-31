@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=XSession
+Name=Denizalti
+Comment=Drop Deep Into The Sea
+Exec=/usr/bin/Denizalti
